@@ -5,7 +5,7 @@ decays by the legacy LOGFT code. RadiationReport is part of the [ENSDF Analysis 
 Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
-test1
+test2
 #### 2025-04
 Bug fixes and improvements
 
